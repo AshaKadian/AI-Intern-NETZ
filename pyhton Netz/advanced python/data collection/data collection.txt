@@ -1,0 +1,66 @@
+https://www.simplilearn.com/what-is-data-collection-article
+
+What is Data Collection?
+Data collection is the process of collecting and evaluating information or data from multiple sources to find answers to research problems, answer questions, evaluate outcomes, and forecast trends and probabilities. It is an essential phase in all types of research, analysis, and decision-making, including that done in the social sciences, business, and healthcare.
+
+During data collection, researchers must identify the data types, the sources of data, and the methods being used. We will soon see that there are many different data collection methods. Data collection is heavily reliance on in research, commercial, and government fields.
+
+Before an analyst begins collecting data, they must answer three questions first:
+
+What’s the goal or purpose of this research?
+What kinds of data are they planning on gathering?
+What methods and procedures will be used to collect, store, and process the information?
+Additionally, we can divide data into qualitative and quantitative types. Qualitative data covers descriptions such as color, size, quality, and appearance. Unsurprisingly, quantitative data deals with numbers, such as statistics, poll numbers, percentages, etc.
+The process of gathering and analyzing accurate data from various sources to find answers to research problems, trends and probabilities, etc., to evaluate possible outcomes is known as data collection. Knowledge is power, information is knowledge, and data is information in digitized form, at least as defined in IT. Hence, data is power. But before you can leverage that data into a successful strategy for your organization or business, you need to gather it. That’s your first step.
+
+So, to help you get the process started, we shine a spotlight on data collection. What exactly is it? Believe it or not, it’s more than just doing a Google search! Furthermore, what are the different types of data collection? And what kinds of data collection tools and data collection techniques exist? If you want to get up to speed about what is data collection process, you’ve come to the right place. Let's start!
+
+What is Data Collection?
+Data collection is the process of collecting and evaluating information or data from multiple sources to find answers to research problems, answer questions, evaluate outcomes, and forecast trends and probabilities. It is an essential phase in all types of research, analysis, and decision-making, including that done in the social sciences, business, and healthcare.
+
+During data collection, researchers must identify the data types, the sources of data, and the methods being used. We will soon see that there are many different data collection methods. Data collection is heavily reliance on in research, commercial, and government fields.
+
+Before an analyst begins collecting data, they must answer three questions first:
+
+What’s the goal or purpose of this research?
+What kinds of data are they planning on gathering?
+What methods and procedures will be used to collect, store, and process the information?
+Additionally, we can divide data into qualitative and quantitative types. Qualitative data covers descriptions such as color, size, quality, and appearance. Unsurprisingly, quantitative data deals with numbers, such as statistics, poll numbers, percentages, etc.
+
+Unlock new career opportunities today by mastering the art of data management with Simplilearn's comprehensive data management courses!
+Why Do We Need Data Collection?
+Before a judge makes a ruling in a court case or a general creates a plan of attack, they must have as many relevant facts as possible. The best courses of action come from informed decisions, and information and data are synonymous.
+
+The concept of data collection isn’t new, as we’ll see later, but the world has changed. There is far more data available today, and it exists in forms that were unheard of a century ago. The data collection process has had to change and grow, keeping pace with technology.
+
+Whether you’re in academia, trying to conduct research, or part of the commercial sector, thinking of how to promote a new product, you need data collection to help you make better choices.
+
+Now that you know what data collection is and why we need it, let's look at the different methods of data collection. Data collection could mean a telephone survey, a mail-in comment card, or even some guy with a clipboard asking passersby some questions. But let’s see if we can sort the different data collection methods into a semblance of organized categories.
+What Are the Different Data Collection Methods?
+Primary and secondary methods of data collection are two approaches used to gather information for research or analysis purposes. Let's explore each data collection method in detail:
+
+1. Primary Data Collection
+The first techniques of data collection is Primary data collection which involves the collection of original data directly from the source or through direct interaction with the respondents. This method allows researchers to obtain firsthand information tailored to their research objectives. There are various techniques for primary data collection, including:
+
+a. Surveys and Questionnaires: Researchers design structured questionnaires or surveys to collect data from individuals or groups. These can be conducted through face-to-face interviews, telephone calls, mail, or online platforms.
+
+b. Interviews: Interviews involve direct interaction between the researcher and the respondent. They can be conducted in person, over the phone, or through video conferencing. Interviews can be structured (with predefined questions), semi-structured (allowing flexibility), or unstructured (more conversational).
+
+c. Observations: Researchers observe and record behaviors, actions, or events in their natural setting. This method is useful for gathering data on human behavior, interactions, or phenomena without direct intervention.
+
+d. Experiments: Experimental studies involve manipulating variables to observe their impact on the outcome. Researchers control the conditions and collect data to conclude cause-and-effect relationships.
+
+e. Focus Groups: Focus groups bring together a small group of individuals who discuss specific topics in a moderated setting. This method helps in understanding the opinions, perceptions, and experiences shared by the participants.
+
+2. Secondary Data Collection
+The next techniques of data collection is Secondary data collection which involves using existing data collected by someone else for a purpose different from the original intent. Researchers analyze and interpret this data to extract relevant information. Secondary data can be obtained from various sources, including:
+
+a. Published Sources: Researchers refer to books, academic journals, magazines, newspapers, government reports, and other published materials that contain relevant data.
+
+b. Online Databases: Numerous online databases provide access to a wide range of secondary data, such as research articles, statistical information, economic data, and social surveys.
+
+c. Government and Institutional Records: Government agencies, research institutions, and organizations often maintain databases or records that can be used for research purposes.
+
+d. Publicly Available Data: Data shared by individuals, organizations, or communities on public platforms, websites, or social media can be accessed and utilized for research.
+
+e. Past Research Studies: Previous research studies and their findings can serve as valuable secondary data sources. Researchers can review and analyze the data to gain insights or build upon existing knowledge.
